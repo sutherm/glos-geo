@@ -1,3 +1,3 @@
 # glos_geo
 
-This is a sandbox.
+This repository contains various Jupyter notebooks documenting the "hex map" workflow.
